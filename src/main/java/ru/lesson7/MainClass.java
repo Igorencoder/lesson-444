@@ -1,5 +1,6 @@
 package ru.lesson7;
 
+
 public class MainClass {
     public static void main(String[] args) {
         Cat cat = new Cat("Barsik", 30);

@@ -1,6 +1,7 @@
 package ru.lesson7;
 
 
+
 public class Cat {
     private String name;
     private int appetite;
