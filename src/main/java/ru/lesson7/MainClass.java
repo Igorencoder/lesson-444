@@ -13,7 +13,9 @@ public class MainClass {
          else {
             plate.info();
         }
+
          /**  ---ниже пополение тарелки
+          *
           *
           */
          plate.getFood();
