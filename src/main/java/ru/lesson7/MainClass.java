@@ -18,6 +18,7 @@ public class MainClass {
           *
           *
           */
+
          plate.getFood();
         System.out.println("n=" + n + " " + plate.getFood());
          if (plate.getFood()<n) {
